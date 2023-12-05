@@ -1,0 +1,9 @@
+.user-bio{
+  border: none;
+}
+
+.user-bio:focus{
+  outline: none;
+  border-bottom: 1px dotted rgb(0, 140, 255);
+  
+}
